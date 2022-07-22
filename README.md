@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+- My name is Qasim Elhabrush and I am interested in learning software development in relation to the natural sciences.
+- :notebook: B.A Biology 2019-2022, B.S Computer Science expected 2023
+- 🌱 I'm current learning web development(html/css/js)
+- 📫 How to reach me: qasimelhabrush@gmail.com
 
 <!--
 **Qasim-Elhabrush/Qasim-Elhabrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
